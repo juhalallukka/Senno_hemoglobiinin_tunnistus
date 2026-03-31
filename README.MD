@@ -11,7 +11,7 @@ Optiset mittaukset Senno-laitteella ja data-analyysi neuroverkon avulla -opinnä
 
 **malliX.keras** -  valmiit mallit 1-4
 
-**inference.py** - kutsuu kansiossa olevaa mallia. Funktio palauttaa mallien 1 ja 4 ennusteet pääohjelmalle, jossa mallin 4 ennuste näkyvissä käyttöliittymän predictio-kentässä ja mallin 1 ennuste kommentoitu piiloon.
+**inference.py** - kutsuu kansiossa olevaa mallia. Funktio palauttaa mallien 1 ja 4 ennusteet pääohjelmalle, jossa mallin 4 ennuste näkyvissä käyttöliittymän prediction-kentässä ja mallin 1 ennuste kommentoitu piiloon.
 
 ## mallien koulutustiedostot
 ajetaan erikseen.
