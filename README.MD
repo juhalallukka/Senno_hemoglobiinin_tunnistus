@@ -1,5 +1,5 @@
 # Hemoglobiinin tunnistus demo
-Optiset mittaukset Senno-laitteella ja data-analyysi neuroverkon avulla -opinnäyte työn hemoglobiinin tunnistus demo. Kansiossa kaikki tarvittava softa demon testausta varten. Neuroverkkojen koulutuksesta ja datasta tarkemmin [täällä](https://github.com/martrahu/Oppari/tree/main/21.01.2026).
+[Optiset mittaukset Senno-laitteella ja data-analyysi neuroverkon avulla](https://urn.fi/URN:NBN:fi:amk-202604025547) -opinnäyte työn hemoglobiinin tunnistus demo. Kansiossa kaikki tarvittava softa demon testausta varten. Neuroverkkojen koulutuksesta ja datasta tarkemmin [täällä](https://github.com/martrahu/Oppari/tree/main/21.01.2026).
 
 **Senno_main** - Aja tämä
 
